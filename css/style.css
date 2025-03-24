@@ -472,3 +472,48 @@ ol li{
 .login-box:hover .login-box1{
     display: block;
 }
+.footer-class{
+    color:rgb(195, 131, 255); 
+    font-size: 17px;
+    padding-left: 10px;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.h6{
+    margin-left: 40px;
+     font-size: 20px;
+     color: rgb(195, 131, 255); 
+     font-weight: 800;
+      margin-top: 30px;
+}
+.subscribe-button{
+    color: white;
+    margin-left: 10px; 
+    background-color:red; 
+    height: 40px; 
+    width: 150px; 
+    margin-top: 15px;
+    border-radius: 5px; 
+    text-align: center;
+}
+.email-input{
+    margin-left:10px;
+    border: 2px solid grey;
+    background-color: black;
+     font-size: 20px;
+      height: 40px;
+       width: 360px; 
+       text-align:justify;
+       padding-left: 10px;
+}
+.truck-container{
+    color: #ff2104; 
+    font-size: 25px;
+     margin-top: 20px;
+}
+.techshop-heading{
+    color: rgb(180, 100, 255);
+     font-size: 30px;
+     font-weight: bolder;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   margin-left: 100px;
+}
