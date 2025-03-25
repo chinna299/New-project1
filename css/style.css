@@ -13,7 +13,6 @@ body {
     width: auto;
 }
 
-/* main page started */
 .mainim {
     display: flex;
     height: 400px;
@@ -36,8 +35,6 @@ body {
 }
 
 .search {
-    /* margin-right: 40px; */
-    /* margin-left: 200px;  */
     position: absolute;
     margin-left: 275px;
     margin-top: 10px;
@@ -606,6 +603,7 @@ ol li {
     font-size: 25px;
     margin-top: 20px;
 }
+
 .btn-group .plus-button {
     background-color: rgb(73, 72, 72);
     color: rgb(182, 145, 216);
@@ -644,7 +642,8 @@ ol li {
     font-size: 20px;
     border-radius: 10px;
 }
-.advantages{
-color:rgb(173, 163, 182);
-font-weight:500;
+
+.advantages {
+    color: rgb(173, 163, 182);
+    font-weight: 500;
 }
